@@ -1,6 +1,7 @@
 # EEE488App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+Before starting make sure you have node.js installed https://nodejs.org/en/download/
 
 ## Development server
 
